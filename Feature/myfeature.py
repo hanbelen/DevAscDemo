@@ -38,3 +38,5 @@ if __name__ == "__main__":
     feature = MyFeature("myfeature")
     print(feature.execute())
     print(feature.get_info())
+    print("Welcome to DevAsc")
+    
